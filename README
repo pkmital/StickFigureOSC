@@ -1,0 +1,7 @@
+There was no StickFigure example on the NITE Middleware distribution for OSX so I made one using the win32 code.
+
+Additionally, this is wrapped in an XCode project for those that are more familiar with GUI programming. 
+
+As well, there is an extension to this code which streams the data via ofxOsc (oscpack).  See code for osc params.  It should be fairly straightforward!
+
+
